@@ -66,3 +66,5 @@ This is a foundational framework. You can build on it:
 4. Direct Data Insertion: Instead of just logging the analysis, have the script parse data from files and write it directly into other business systems or databases.
 
 You've now moved beyond storage. Your Drive actively thinks about the data you give it. Enjoy your new intelligence engine
+Idea credentials by Lightman Trust 
+https://soloist.ai/lightmantrustgroup/
